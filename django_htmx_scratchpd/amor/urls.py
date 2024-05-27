@@ -1,6 +1,6 @@
-from django.urls import include, path
 from django.conf import settings
-from django.conf.urls import include
+from django.urls import include, path
+
 from . import views
 
 app_name = "amor"

@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-e**y%khu!3u&_n%e4^7tgl!pfk8f29ddi@fw381d35f_#dmtq)"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ["django-htmx-scratchpd.onrender.com", "127.0.0.1"]
 INTERNAL_IPS = [
