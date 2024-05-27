@@ -1,3 +1,4 @@
 django
 gunicorn
 django-tailwind[reload]
+django-debug-toolbar
